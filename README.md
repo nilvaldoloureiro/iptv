@@ -1,2 +1,1 @@
-# iptv
-arquivos necessários para IPTV
+readme
